@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Here's my contacts, please feel free to get in touch with me!
+  ### Here's my LinkedIn, please feel free to get in touch with me!
  
 <div> 
   <a href="https://www.linkedin.com/in/lucas-kenji-m-ba366211a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
